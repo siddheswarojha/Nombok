@@ -1,0 +1,12 @@
+C:\Users\siddh\source\repos\Nombok\Nombok\bin\Debug\net7.0\Nombok.deps.json
+C:\Users\siddh\source\repos\Nombok\Nombok\bin\Debug\net7.0\Nombok.dll
+C:\Users\siddh\source\repos\Nombok\Nombok\bin\Debug\net7.0\Nombok.pdb
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.csproj.AssemblyReference.cache
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.AssemblyInfoInputs.cache
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.AssemblyInfo.cs
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.csproj.CoreCompileInputs.cache
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.dll
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\refint\Nombok.dll
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\Nombok.pdb
+C:\Users\siddh\source\repos\Nombok\Nombok\obj\Debug\net7.0\ref\Nombok.dll
